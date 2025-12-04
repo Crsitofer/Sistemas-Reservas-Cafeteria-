@@ -10,6 +10,7 @@ namespace SistemaReservasCafeteria
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
