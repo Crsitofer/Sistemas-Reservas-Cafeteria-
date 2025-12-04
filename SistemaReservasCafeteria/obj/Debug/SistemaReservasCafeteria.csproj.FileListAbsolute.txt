@@ -1,0 +1,7 @@
+C:\Users\Cesar\source\repos\SistemaReservasCafeteria\SistemaReservasCafeteria\bin\Debug\SistemaReservasCafeteria.exe.config
+C:\Users\Cesar\source\repos\SistemaReservasCafeteria\SistemaReservasCafeteria\bin\Debug\SistemaReservasCafeteria.exe
+C:\Users\Cesar\source\repos\SistemaReservasCafeteria\SistemaReservasCafeteria\bin\Debug\SistemaReservasCafeteria.pdb
+C:\Users\Cesar\source\repos\SistemaReservasCafeteria\SistemaReservasCafeteria\obj\Debug\SistemaReservasCafeteria.csproj.AssemblyReference.cache
+C:\Users\Cesar\source\repos\SistemaReservasCafeteria\SistemaReservasCafeteria\obj\Debug\SistemaReservasCafeteria.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\SistemaReservasCafeteria\SistemaReservasCafeteria\obj\Debug\SistemaReservasCafeteria.exe
+C:\Users\Cesar\source\repos\SistemaReservasCafeteria\SistemaReservasCafeteria\obj\Debug\SistemaReservasCafeteria.pdb
